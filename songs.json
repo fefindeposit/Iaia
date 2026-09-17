@@ -1,0 +1,682 @@
+[
+  {
+    "title": "21 Questions",
+    "artist": "50 Cent, Nate Dogg",
+    "file": "audio/track-001.mp3"
+  },
+  {
+    "title": "911 / Mr. Lonely (feat. Frank Ocean & Steve Lacy)",
+    "artist": "Tyler, The Creator, Frank Ocean, Steve Lacy",
+    "file": "audio/track-002.mp3"
+  },
+  {
+    "title": "a lot",
+    "artist": "21 Savage",
+    "file": "audio/track-003.mp3"
+  },
+  {
+    "title": "All Falls Down",
+    "artist": "Kanye West, Syleena Johnson",
+    "file": "audio/track-004.mp3"
+  },
+  {
+    "title": "All I Did Was Dream of You (feat. The Marías)",
+    "artist": "beabadoobee, The Marías",
+    "file": "audio/track-005.mp3"
+  },
+  {
+    "title": "Alright",
+    "artist": "Kendrick Lamar",
+    "file": "audio/track-006.mp3"
+  },
+  {
+    "title": "Always",
+    "artist": "Daniel Caesar",
+    "file": "audio/track-007.mp3"
+  },
+  {
+    "title": "Animal I Have Become",
+    "artist": "Three Days Grace",
+    "file": "audio/track-008.mp3"
+  },
+  {
+    "title": "august",
+    "artist": "Taylor Swift",
+    "file": "audio/track-009.mp3"
+  },
+  {
+    "title": "Bad Religion",
+    "artist": "Frank Ocean",
+    "file": "audio/track-010.mp3"
+  },
+  {
+    "title": "Balloon (feat. Doechii)",
+    "artist": "Tyler, The Creator, Doechii",
+    "file": "audio/track-011.mp3"
+  },
+  {
+    "title": "Beauty And A Beat",
+    "artist": "Justin Bieber, Nicki Minaj",
+    "file": "audio/track-012.mp3"
+  },
+  {
+    "title": "BEST INTEREST",
+    "artist": "Tyler, The Creator",
+    "file": "audio/track-013.mp3"
+  },
+  {
+    "title": "Bitch, Don’t Kill My Vibe",
+    "artist": "Kendrick Lamar",
+    "file": "audio/track-014.mp3"
+  },
+  {
+    "title": "Boredom (feat. Rex Orange County & Anna of the North)",
+    "artist": "Tyler, The Creator, Rex Orange County, Anna of the North",
+    "file": "audio/track-015.mp3"
+  },
+  {
+    "title": "Chanel",
+    "artist": "Frank Ocean",
+    "file": "audio/track-016.mp3"
+  },
+  {
+    "title": "Close To You",
+    "artist": "Frank Ocean",
+    "file": "audio/track-017.mp3"
+  },
+  {
+    "title": "Collard Greens",
+    "artist": "ScHoolboy Q, Kendrick Lamar",
+    "file": "audio/track-018.mp3"
+  },
+  {
+    "title": "Congratulations (feat. Bilal)",
+    "artist": "Mac Miller, Bilal",
+    "file": "audio/track-019.mp3"
+  },
+  {
+    "title": "Daddy Issues",
+    "artist": "The Neighbourhood",
+    "file": "audio/track-020.mp3"
+  },
+  {
+    "title": "Darling, I (feat. Teezo Touchdown)",
+    "artist": "Tyler, The Creator, Teezo Touchdown",
+    "file": "audio/track-021.mp3"
+  },
+  {
+    "title": "Do You Like Me?",
+    "artist": "Daniel Caesar",
+    "file": "audio/track-022.mp3"
+  },
+  {
+    "title": "E. Coli (feat. Earl Sweatshirt)",
+    "artist": "The Alchemist, Earl Sweatshirt",
+    "file": "audio/track-023.mp3"
+  },
+  {
+    "title": "EARFQUAKE",
+    "artist": "Tyler, The Creator",
+    "file": "audio/track-024.mp3"
+  },
+  {
+    "title": "Earrings",
+    "artist": "Malcolm Todd",
+    "file": "audio/track-025.mp3"
+  },
+  {
+    "title": "Emily’s Song",
+    "artist": "Daniel Caesar",
+    "file": "audio/track-026.mp3"
+  },
+  {
+    "title": "End",
+    "artist": "Frank Ocean",
+    "file": "audio/track-027.mp3"
+  },
+  {
+    "title": "euphoria",
+    "artist": "Kendrick Lamar",
+    "file": "audio/track-028.mp3"
+  },
+  {
+    "title": "family ties (with Kendrick Lamar)",
+    "artist": "Baby Keem, Kendrick Lamar",
+    "file": "audio/track-029.mp3"
+  },
+  {
+    "title": "Fourth of July",
+    "artist": "Sufjan Stevens",
+    "file": "audio/track-030.mp3"
+  },
+  {
+    "title": "Get You (feat. Kali Uchis)",
+    "artist": "Daniel Caesar, Kali Uchis",
+    "file": "audio/track-031.mp3"
+  },
+  {
+    "title": "Ghost Town",
+    "artist": "Kanye West, PARTYNEXTDOOR",
+    "file": "audio/track-032.mp3"
+  },
+  {
+    "title": "gloria (with sza)",
+    "artist": "Kendrick Lamar, SZA",
+    "file": "audio/track-033.mp3"
+  },
+  {
+    "title": "Godspeed",
+    "artist": "Frank Ocean",
+    "file": "audio/track-034.mp3"
+  },
+  {
+    "title": "Guilty as Sin?",
+    "artist": "Taylor Swift",
+    "file": "audio/track-035.mp3"
+  },
+  {
+    "title": "Hard Times",
+    "artist": "Paramore",
+    "file": "audio/track-036.mp3"
+  },
+  {
+    "title": "Hit 'Em Up - Single Version",
+    "artist": "2Pac, Outlawz",
+    "file": "audio/track-037.mp3"
+  },
+  {
+    "title": "Hold Me Down",
+    "artist": "Daniel Caesar",
+    "file": "audio/track-038.mp3"
+  },
+  {
+    "title": "honeybee",
+    "artist": "Olivia Rodrigo",
+    "file": "audio/track-039.mp3"
+  },
+  {
+    "title": "How You Remind Me",
+    "artist": "Nickelback",
+    "file": "audio/track-040.mp3"
+  },
+  {
+    "title": "Hypnotize - 2014 Remaster",
+    "artist": "The Notorious B.I.G.",
+    "file": "audio/track-041.mp3"
+  },
+  {
+    "title": "I Hate Everything About You",
+    "artist": "Three Days Grace",
+    "file": "audio/track-042.mp3"
+  },
+  {
+    "title": "I THINK",
+    "artist": "Tyler, The Creator",
+    "file": "audio/track-043.mp3"
+  },
+  {
+    "title": "I Wanna Be Yours",
+    "artist": "Arctic Monkeys",
+    "file": "audio/track-044.mp3"
+  },
+  {
+    "title": "I'll Take Care of You (feat. Yebba)",
+    "artist": "Tyler, The Creator, Yebba",
+    "file": "audio/track-045.mp3"
+  },
+  {
+    "title": "Infrunami",
+    "artist": "Steve Lacy",
+    "file": "audio/track-046.mp3"
+  },
+  {
+    "title": "is it cool? (feat. SZA)",
+    "artist": "Steve Lacy, SZA",
+    "file": "audio/track-047.mp3"
+  },
+  {
+    "title": "It Will Rain",
+    "artist": "Bruno Mars",
+    "file": "audio/track-048.mp3"
+  },
+  {
+    "title": "Japanese Denim",
+    "artist": "Daniel Caesar",
+    "file": "audio/track-049.mp3"
+  },
+  {
+    "title": "Lady - Hear Me Tonight",
+    "artist": "Modjo",
+    "file": "audio/track-050.mp3"
+  },
+  {
+    "title": "Like Him (feat. Lola Young)",
+    "artist": "Tyler, The Creator, Lola Young",
+    "file": "audio/track-051.mp3"
+  },
+  {
+    "title": "Loose",
+    "artist": "Daniel Caesar",
+    "file": "audio/track-052.mp3"
+  },
+  {
+    "title": "Lost on You",
+    "artist": "LP",
+    "file": "audio/track-053.mp3"
+  },
+  {
+    "title": "Lost",
+    "artist": "Frank Ocean",
+    "file": "audio/track-054.mp3"
+  },
+  {
+    "title": "luther (with sza)",
+    "artist": "Kendrick Lamar, SZA",
+    "file": "audio/track-055.mp3"
+  },
+  {
+    "title": "m y . l i f e (with 21 Savage & Morray)",
+    "artist": "J. Cole, 21 Savage, Morray",
+    "file": "audio/track-056.mp3"
+  },
+  {
+    "title": "Me and Your Mama",
+    "artist": "Childish Gambino",
+    "file": "audio/track-057.mp3"
+  },
+  {
+    "title": "meet the grahams",
+    "artist": "Kendrick Lamar",
+    "file": "audio/track-058.mp3"
+  },
+  {
+    "title": "Money Trees",
+    "artist": "Kendrick Lamar, Jay Rock",
+    "file": "audio/track-059.mp3"
+  },
+  {
+    "title": "Mr. Man",
+    "artist": "Chezile, Dominique Da Silva",
+    "file": "audio/track-060.mp3"
+  },
+  {
+    "title": "My Favorite Part",
+    "artist": "Mac Miller, Ariana Grande",
+    "file": "audio/track-061.mp3"
+  },
+  {
+    "title": "Nights",
+    "artist": "Frank Ocean",
+    "file": "audio/track-062.mp3"
+  },
+  {
+    "title": "Noid",
+    "artist": "Tyler, The Creator",
+    "file": "audio/track-063.mp3"
+  },
+  {
+    "title": "Nonsense",
+    "artist": "Sabrina Carpenter",
+    "file": "audio/track-064.mp3"
+  },
+  {
+    "title": "North Face",
+    "artist": "ODIE",
+    "file": "audio/track-065.mp3"
+  },
+  {
+    "title": "Not Like Us",
+    "artist": "Kendrick Lamar",
+    "file": "audio/track-066.mp3"
+  },
+  {
+    "title": "Peach",
+    "artist": "Kevin Abstract",
+    "file": "audio/track-067.mp3"
+  },
+  {
+    "title": "Pink Matter",
+    "artist": "Frank Ocean, André 3000",
+    "file": "audio/track-068.mp3"
+  },
+  {
+    "title": "PRIDE.",
+    "artist": "Kendrick Lamar",
+    "file": "audio/track-069.mp3"
+  },
+  {
+    "title": "Promiscuous",
+    "artist": "Nelly Furtado, Timbaland",
+    "file": "audio/track-070.mp3"
+  },
+  {
+    "title": "Ring Ring Ring",
+    "artist": "Tyler, The Creator",
+    "file": "audio/track-071.mp3"
+  },
+  {
+    "title": "Runaway",
+    "artist": "Kanye West, Pusha T",
+    "file": "audio/track-072.mp3"
+  },
+  {
+    "title": "RUNNING OUT OF TIME",
+    "artist": "Tyler, The Creator",
+    "file": "audio/track-073.mp3"
+  },
+  {
+    "title": "Save Your Tears",
+    "artist": "The Weeknd",
+    "file": "audio/track-074.mp3"
+  },
+  {
+    "title": "See You Again (feat. Kali Uchis)",
+    "artist": "Tyler, The Creator, Kali Uchis",
+    "file": "audio/track-075.mp3"
+  },
+  {
+    "title": "Seigfried",
+    "artist": "Frank Ocean",
+    "file": "audio/track-076.mp3"
+  },
+  {
+    "title": "Self Aware",
+    "artist": "Temper City",
+    "file": "audio/track-077.mp3"
+  },
+  {
+    "title": "Self Control",
+    "artist": "Frank Ocean",
+    "file": "audio/track-078.mp3"
+  },
+  {
+    "title": "Small Worlds",
+    "artist": "Mac Miller",
+    "file": "audio/track-079.mp3"
+  },
+  {
+    "title": "So Fresh, So Clean",
+    "artist": "Outkast",
+    "file": "audio/track-080.mp3"
+  },
+  {
+    "title": "St. Chroma (feat. Daniel Caesar)",
+    "artist": "Tyler, The Creator, Daniel Caesar",
+    "file": "audio/track-081.mp3"
+  },
+  {
+    "title": "Sticky (feat. GloRilla, Sexyy Red & Lil Wayne)",
+    "artist": "Tyler, The Creator, GloRilla, Sexyy Red, Lil Wayne",
+    "file": "audio/track-082.mp3"
+  },
+  {
+    "title": "Sugar On My Tongue",
+    "artist": "Tyler, The Creator",
+    "file": "audio/track-083.mp3"
+  },
+  {
+    "title": "Sunshine",
+    "artist": "Snoop Dogg",
+    "file": "audio/track-084.mp3"
+  },
+  {
+    "title": "Sweet Life",
+    "artist": "Frank Ocean",
+    "file": "audio/track-085.mp3"
+  },
+  {
+    "title": "Swimming Pools (Drank) - Extended Version",
+    "artist": "Kendrick Lamar",
+    "file": "audio/track-086.mp3"
+  },
+  {
+    "title": "Take Your Mask Off (feat. Daniel Caesar & LaToiya Williams)",
+    "artist": "Tyler, The Creator, Daniel Caesar, LaToiya Williams",
+    "file": "audio/track-087.mp3"
+  },
+  {
+    "title": "thank u, next",
+    "artist": "Ariana Grande",
+    "file": "audio/track-088.mp3"
+  },
+  {
+    "title": "The Beach",
+    "artist": "The Neighbourhood",
+    "file": "audio/track-089.mp3"
+  },
+  {
+    "title": "the cure",
+    "artist": "Olivia Rodrigo",
+    "file": "audio/track-090.mp3"
+  },
+  {
+    "title": "The Spins",
+    "artist": "Mac Miller, Empire Of The Sun",
+    "file": "audio/track-091.mp3"
+  },
+  {
+    "title": "There Is a Light That Never Goes Out - 2011 Remaster",
+    "artist": "The Smiths",
+    "file": "audio/track-092.mp3"
+  },
+  {
+    "title": "Those Eyes",
+    "artist": "New West",
+    "file": "audio/track-093.mp3"
+  },
+  {
+    "title": "Thought I Was Dead (feat. ScHoolboy Q & Santigold)",
+    "artist": "Tyler, The Creator, ScHoolboy Q, Santigold",
+    "file": "audio/track-094.mp3"
+  },
+  {
+    "title": "Vegas (From the Original Motion Picture Soundtrack ELVIS)",
+    "artist": "Doja Cat",
+    "file": "audio/track-095.mp3"
+  },
+  {
+    "title": "We Cry Together",
+    "artist": "Kendrick Lamar, Taylour Paige",
+    "file": "audio/track-096.mp3"
+  },
+  {
+    "title": "What Do You Mean?",
+    "artist": "Justin Bieber",
+    "file": "audio/track-097.mp3"
+  },
+  {
+    "title": "What You Know",
+    "artist": "Two Door Cinema Club",
+    "file": "audio/track-098.mp3"
+  },
+  {
+    "title": "When I Was Your Man",
+    "artist": "Bruno Mars",
+    "file": "audio/track-099.mp3"
+  },
+  {
+    "title": "White Ferrari",
+    "artist": "Frank Ocean",
+    "file": "audio/track-100.mp3"
+  },
+  {
+    "title": "Work Out",
+    "artist": "J. Cole",
+    "file": "audio/track-101.mp3"
+  },
+  {
+    "title": "Yebba’s Heartbreak",
+    "artist": "Drake, Yebba",
+    "file": "audio/track-102.mp3"
+  },
+  {
+    "title": "You Know How We Do It",
+    "artist": "Ice Cube",
+    "file": "audio/track-103.mp3"
+  },
+  {
+    "title": "Aplico o Chá",
+    "artist": "Mc DB, Dj KS, DJ Rk",
+    "file": "audio/iaia-Aplico o Chá_spotdown.org.mp3"
+  },
+  {
+    "title": "Até Você Voltar - Ao Vivo",
+    "artist": "Henrique & Juliano",
+    "file": "audio/iaia-Até Você Voltar - Ao Vivo_spotdown.org.mp3"
+  },
+  {
+    "title": "Ballin' (with Roddy Ricch)",
+    "artist": "Mustard, Roddy Ricch",
+    "file": "audio/iaia-Ballin' (with Roddy Ricch)_spotdown.org.mp3"
+  },
+  {
+    "title": "Cara de Santa",
+    "artist": "Noobreak, Vinicius Cavalcante, MC Levin, DJ Maloka Original",
+    "file": "audio/iaia-Cara de Santa_spotdown.org.mp3"
+  },
+  {
+    "title": "Caso Indefinido",
+    "artist": "Cristiano Araújo",
+    "file": "audio/iaia-Caso Indefinido_spotdown.org.mp3"
+  },
+  {
+    "title": "Come & Go (with Marshmello)",
+    "artist": "Juice WRLD, Marshmello",
+    "file": "audio/iaia-Come & Go (with Marshmello)_spotdown.org.mp3"
+  },
+  {
+    "title": "Ela É Malandra",
+    "artist": "MC Luan da BS, Mc Kaio, MC AK, Mc Vaguin, DJ Marcus Vinicius",
+    "file": "audio/iaia-Ela É Malandra_spotdown.org.mp3"
+  },
+  {
+    "title": "Eu Catuquei",
+    "artist": "MC Zaquin, MC Braz, DJ 2w",
+    "file": "audio/iaia-Eu Catuquei_spotdown.org.mp3"
+  },
+  {
+    "title": "feelz",
+    "artist": "Lil Peep",
+    "file": "audio/iaia-feelz_spotdown.org.mp3"
+  },
+  {
+    "title": "Formosa",
+    "artist": "Kaio Viana, MC CJ",
+    "file": "audio/iaia-Formosa_spotdown.org.mp3"
+  },
+  {
+    "title": "Freakin' Out (Oops All Drop)",
+    "artist": "Dexter and The Moonrocks",
+    "file": "audio/iaia-Freakin' Out (Oops All Drop)_spotdown.org.mp3"
+  },
+  {
+    "title": "Gps",
+    "artist": "Mc Pw, DJ Lukinha",
+    "file": "audio/iaia-Gps_spotdown.org.mp3"
+  },
+  {
+    "title": "Groupies",
+    "artist": "Doode, Teto, Matuê",
+    "file": "audio/iaia-Groupies_spotdown.org.mp3"
+  },
+  {
+    "title": "Heartless",
+    "artist": "Kanye West",
+    "file": "audio/iaia-Heartless_spotdown.org.mp3"
+  },
+  {
+    "title": "Is There Someone Else?",
+    "artist": "The Weeknd",
+    "file": "audio/iaia-Is There Someone Else__spotdown.org.mp3"
+  },
+  {
+    "title": "Ligou na Madruga",
+    "artist": "Mc Laranjinha, Dj Lv Mdp",
+    "file": "audio/iaia-Ligou na Madruga_spotdown.org.mp3"
+  },
+  {
+    "title": "Lollipop",
+    "artist": "Lil Wayne, Static Major",
+    "file": "audio/iaia-Lollipop_spotdown.org.mp3"
+  },
+  {
+    "title": "Maldita de Ex",
+    "artist": "Mc Leozin, Mc Frog, A2M PRODUTORA",
+    "file": "audio/iaia-Maldita de Ex_spotdown.org.mp3"
+  },
+  {
+    "title": "Maldivas",
+    "artist": "LUDMILLA",
+    "file": "audio/iaia-Maldivas_spotdown.org.mp3"
+  },
+  {
+    "title": "Meia Noite Ela Sai / Endereço da Favela",
+    "artist": "DJ Lukinha, MC FIOTE DO PPG, Mc Vittin PV, Mc Pw",
+    "file": "audio/iaia-Meia Noite Ela Sai _ Endereço da Favela_spotdown.org.mp3"
+  },
+  {
+    "title": "Meu Jeito",
+    "artist": "Kew, THEUZ ZL, Dj Mito",
+    "file": "audio/iaia-Meu Jeito_spotdown.org.mp3"
+  },
+  {
+    "title": "Nos vai ficar, sem se sufocar",
+    "artist": "Mc Lele JP, Dj Andrabeat, Pêpa Beatmaker",
+    "file": "audio/iaia-Nos vai ficar, sem se sufocar_spotdown.org.mp3"
+  },
+  {
+    "title": "Os Anjos Cantam",
+    "artist": "Jorge & Mateus",
+    "file": "audio/iaia-Os Anjos Cantam_spotdown.org.mp3"
+  },
+  {
+    "title": "Panini",
+    "artist": "Lil Nas X",
+    "file": "audio/iaia-Panini_spotdown.org.mp3"
+  },
+  {
+    "title": "Parado no Bailão",
+    "artist": "MC L da Vinte, MC Gury, DJ Swat",
+    "file": "audio/iaia-Parado no Bailão_spotdown.org.mp3"
+  },
+  {
+    "title": "Poesia Acústica 13",
+    "artist": "Pineapple StormTv, Chris MC, Salve Malak, Tz da Coronel, MC Cabelinho, Chefin, L7NNON, Luísa Sonza, Oruam, Xamã, N.I.N.A",
+    "file": "audio/iaia-Poesia Acústica 13_spotdown.org.mp3"
+  },
+  {
+    "title": "POR AÍ",
+    "artist": "DJ TOPO, Mc Livinho",
+    "file": "audio/iaia-POR AÍ_spotdown.org.mp3"
+  },
+  {
+    "title": "Postura de Bandido Mau",
+    "artist": "Mc Anjim",
+    "file": "audio/iaia-Postura de Bandido Mau_spotdown.org.mp3"
+  },
+  {
+    "title": "Reliquia do 2T",
+    "artist": "DJ Gu, MC Vine7, MC Tuto, MC Joãozinho VT, Mc Dkziin, MC Fr da Norte",
+    "file": "audio/iaia-Reliquia do 2T_spotdown.org.mp3"
+  },
+  {
+    "title": "So Far So Fake",
+    "artist": "Pierce The Veil",
+    "file": "audio/iaia-So Far So Fake_spotdown.org.mp3"
+  },
+  {
+    "title": "The Machine",
+    "artist": "Reed Wonder, Aurora Olivas",
+    "file": "audio/iaia-The Machine_spotdown.org.mp3"
+  },
+  {
+    "title": "Tipo IG",
+    "artist": "MC PH, Solanno, Mc IG, Murillo e LT no Beat",
+    "file": "audio/iaia-Tipo IG_spotdown.org.mp3"
+  },
+  {
+    "title": "Woman",
+    "artist": "Doja Cat",
+    "file": "audio/iaia-Woman_spotdown.org.mp3"
+  }
+]
