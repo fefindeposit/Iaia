@@ -20,7 +20,7 @@ const dailyNotes = [
   "Achei que você fosse gostar.",
   "Essa tem um pedacinho de nós.",
   "Para deixar o caminho mais leve.",
-  "Ouvi e pensei: Ias.",
+  "Ouvi e pensei: Iaia.",
   "Um som para guardar.",
   "Hoje eu trouxe essa para você.",
   "Talvez ela diga o que eu não soube dizer.",
@@ -133,4 +133,5 @@ document.querySelector("#today").textContent = new Intl.DateTimeFormat("en-US", 
 }).format(now).toUpperCase();
 
 loadSong();
+
 
